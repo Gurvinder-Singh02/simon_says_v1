@@ -12,6 +12,7 @@ h1,h3,h2{
     display: flex;
     flex-wrap: wrap;
     width: 500px;
+    box-shadow: 0 0 10px black;
     margin: auto;
     gap: 10px;
     justify-content: center;
